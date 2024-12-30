@@ -47,7 +47,7 @@ When answering questions, follow these guidelines:
 1. Use only the information provided in the context.
 
 2. Do not introduce external information or make assumptions beyond what is explicitly stated in the context.
-""
+"""
 
 # set the openai model
 llm = ChatOpenAI(model="gpt-4o", temperature=0)
